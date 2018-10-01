@@ -1,0 +1,8 @@
+1. Alterar os nomes de pastas e arquivos que contenham espaço e acentuação gráfica.
+2. Um caso de uso é uma ação executada no sistema de forma que altera o estado atual dos objetos envolvidos. Desta forma, consultas, visualizações e relatórios não são casos de uso. São cenários de um caso de uso de manutenção cadastral do objeto envolvido. O melhor nome seria: Manter Aluno e este caso de uso teria os seguintes cenários: incluir, consultar, alterar e excluir.
+3. Remover da documentação dos casos de uso, tudo que não se refere ao caso de uso propriamente dito. Principalmente as instruções do template.
+4. Estão faltando os atributos e a documentação das classes constantes do diagrama.
+5. Colocar o nome do sistema no Documento Visão -> Documento Visão <Nome do Sistema>.
+6. Todas as imagens dos protótipos estão praticamente ilegíveis. Alterar o fundo para a cor branca.
+
+
