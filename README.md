@@ -13,7 +13,7 @@ Software.
 ## Equipe
 Alunos                 | e-mail
 ---------------------  | ---------------------------------------
-Karoline Walczak       | [walczak.karoline@gmail.com](url)
-Gustavo Marques Reis   | [gustavomreis.dev@gmail.com](url)
-Edvan Santos Souza     | [edvansouza.es@gmail.com](url)
-Marcus Brandão         | [mvduartedasilva@gmail.com](url)
+Karoline Walczak       | <walczak.karoline@gmail.com> 
+Gustavo Marques Reis   | <gustavomreis.dev@gmail.com>
+Edvan Santos Souza     | <edvansouza.es@gmail.com>
+Marcus Brandão         | <mvduartedasilva@gmail.com>
