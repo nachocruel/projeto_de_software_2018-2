@@ -1,0 +1,5 @@
+Avaliação 05/10/2018
+1. Atualizar a documentação dos casos de uso.
+2. Alterar as associações entre as classes, incluindo a cardinalidade da associação.
+3. Remover os atributos criados para representar as associações.
+4. Incluir as operações nas classes.
