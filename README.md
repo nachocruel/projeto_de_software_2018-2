@@ -16,4 +16,3 @@ Alunos                 | e-mail
 Karoline Walczak       | <walczak.karoline@gmail.com> 
 Gustavo Marques Reis   | <gustavomreis.dev@gmail.com>
 Edvan Santos Souza     | <edvansouza.es@gmail.com>
-Marcus Brandão         | <mvduartedasilva@gmail.com>
